@@ -1,0 +1,16 @@
+name: Legal templates
+on: release
+jobs:
+  pdf:
+    name: Generate PDF
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v1
+      - name: Generate PDFs
+        uses: mkrakowitzer/actions-makepdfs@master
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v1
+        with:
+          name: legal-templates
+          path: tmp

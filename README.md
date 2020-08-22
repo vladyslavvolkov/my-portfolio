@@ -2,7 +2,7 @@
 
 ## Opportunity
 
-Me, [_Vladyslav Volkov_](https://github.com/vladyslavvolkov), from now on **Consultant**, propose to _%Company%_,
+Me, [_Vladyslav Volkov_](https://github.com/vladyslavvolkov), from now on **Consultant**, propose to _Acme Corp._,
 from now on, **Company** and its team members to participate suggested educational programs for software engineers,
 software engineers in test or Dev/Ops teams, or assemble a unique set of training classes on-demand.
 

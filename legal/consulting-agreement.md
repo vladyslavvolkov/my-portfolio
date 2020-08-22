@@ -58,14 +58,8 @@ This **Agreement** (including any applicable [Statements of Work](statement-of-w
 
 In Witness Whereof, intending to be legally bound, the parties have executed this **Agreement** as an instrument under seal as of the Effective Date.
 
-
-
-    Company: _____________________________________________________
-    Name:                           John Doe
-    Address:         14 Wall Str., Manhattan, NY, USA, 10006
-
-
-
-    Consultant: __________________________________________________
-    Name:                       Vladyslav Volkov
-    Address:        3 Lva Tolstoho Str., Kyiv, Ukraine, 01004
+| <img width=400 /> | <img width=400 /> |
+| --- | --- |
+| **Company**: _____________________________________________________  | Consultant: __________________________________________________ |
+| **Name**: John Doe | Name:  Vladyslav Volkov |
+| **Address**: 14 Wall Str., Manhattan, NY, USA, 10006 | Address: 3 Lva Tolstoho Str., Kyiv, Ukraine, 01004 |
