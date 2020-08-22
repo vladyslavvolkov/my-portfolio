@@ -9,6 +9,8 @@ jobs:
         uses: actions/checkout@v1
       - name: Generate PDFs
         uses: mkrakowitzer/actions-makepdfs@master
+        with:
+          markdown_dir: legal
       - name: Upload artifacts
         uses: actions/upload-artifact@v1
         with:
